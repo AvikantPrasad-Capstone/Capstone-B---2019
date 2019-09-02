@@ -4,5 +4,9 @@ Within this repository, will show the practical side of my capstone project that
 
 # KDD CUP99 Dataset
 
-The KDD Cup99 Dataset is a widely known Intrusion Detection Dataset that compromises of 42 features and 24 attack types. The below code shows a representaion of the KDD 10% Corrected dataset being trained on a neural network. 
+The KDD Cup99 Dataset is a widely known Intrusion Detection Dataset that compromises of 42 features and 24 attack types. The below code shows a representaion of the KDD 10% Corrected dataset being trained on a neural network. Code for this is shown in the KDD CUP99 file. 
+
+# CICIDS2017 Dataset 
+
+CICIDS2017 dataset contains benign and common attacks, which resembles the true real-world data (PCAPs). It also includes the results of the network traffic analysis using CICFlowMeter with labeled flows based on the time stamp, source and destination IPs, source and destination ports, protocols and attacks. This dataset has been split up into verious days of the week whereby different attacks and number of attacks defer from one another. The specific dataset that has been used for this project is the Wednesday, July 5, 2017 CICIDS2017 dataset which has 6 different attack types with 79 feature values. Code for this is allocated in CICIDS2017 file. 
 
