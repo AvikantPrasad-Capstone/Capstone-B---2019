@@ -4,3 +4,5 @@ Within this repository, will show the practical side of my capstone project that
 
 # KDD CUP99 Dataset
 
+The KDD Cup99 Dataset is a widely known Intrusion Detection Dataset that compromises of 42 features and 24 attack types. The below code shows a representaion of the KDD 10% Corrected dataset being trained on a neural network. 
+
